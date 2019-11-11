@@ -1,0 +1,15 @@
+{
+    "orgName": "EA DF19 Workshop SFDX - Discovery",
+    "description": "ScratchOrg based on Academy org",
+    "template": "0TTB0000000saq5",
+    "settings" : {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "securitySettings": {
+            "passwordPolicies": {
+                "enableSetPasswordInApi": true
+            }
+        }
+    }
+}
