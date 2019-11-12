@@ -1,7 +1,7 @@
 {
     "orgName": "EA DF19 Workshop SFDX - Discovery",
     "description": "ScratchOrg based on Academy org",
-    "template": "0TT1U000009b7ij",
+    "template": "0TT1U000009b7io",
     "settings" : {
         "lightningExperienceSettings": {
             "enableS1DesktopEnabled": true
